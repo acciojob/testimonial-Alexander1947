@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.m1{
+	padding:20px;
+	border:1px solid black;
+	back-ground-color:#f5f5f5;
+}
+.text{
+	text-style:normal;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
